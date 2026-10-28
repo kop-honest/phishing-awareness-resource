@@ -6,7 +6,9 @@ Many times common phishing may be fake bank alerts, fake job alerts or fake mone
 
 ## Types Of Phishing
 1.Spear Phishing-this type of phishing is targeted at certain or specific people
+
 2.Vishing-Phishing via phone call
+
 3.Email Phishing-Fake email messages accompanied by malicious links
 
 ## How To Identify Phishing
