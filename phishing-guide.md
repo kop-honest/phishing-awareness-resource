@@ -5,9 +5,9 @@ Phishing is a type of cyber attack where an attacker senda fake emails, sms, or 
 Many times common phishing may be fake bank alerts, fake job alerts or fake money offers
 
 ## Types Of Phishing
-Spear Phishing-this type of phishing is targeted at certain or specific people
-Vishing-Phishing via phone call
-Email Phishing-Fake email messages accompanied by malicious links
+1.Spear Phishing-this type of phishing is targeted at certain or specific people
+2.Vishing-Phishing via phone call
+3.Email Phishing-Fake email messages accompanied by malicious links
 
 ## How To Identify Phishing
 ### Urgency
