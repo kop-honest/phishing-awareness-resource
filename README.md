@@ -1,10 +1,10 @@
 # phishing-awareness-resource
 simple guide to help users identity and report phishing attacks
 
-##Project Overveiw
+## Project Overveiw
 This repository is a mini cybersecurity project for partc. It focues on phishing awareness which more commonly used as a cyber threat globally
 
-##Contents Of Repository
+## Contents Of Repository
 -Phishing Guide-Full guide on how to spot and avoid phishing attacks
 -Basic Checklist-Weekly and daily cybersecurity checklist
 -Incident Report Template-A template for reporting phishing incidents
